@@ -1,0 +1,2 @@
+economia
+ * {{Thesaurus BNCF}} [[Mercato azionario]] In finanza il mercato azionario è il luogo, non necessariamente fisico, dove sono negoziati i titoli azionari. Tale mercato si distingue in primario e secondario. Sul mercato primario sono collocate le azioni di nuova emissione, mentre su quello secondario sono negoziati titoli già in circolazione. Le imprese emittenti pertanto raccolgono nuove risorse finanziarie solo tramite il mercato primario.
